@@ -1,2 +1,2 @@
 # title
-# This is lab06
+This is lab06
